@@ -7,7 +7,7 @@ namespace GraphProblems
     /// </summary>
     public class DisjoinSet
     {
-        private readonly int[] arr;
+        private readonly int[] arr; 
         public DisjoinSet(int arrLength)
         {
             // [0, 0, 3, 4, 6, 7, 7]

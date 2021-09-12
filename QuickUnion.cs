@@ -1,5 +1,6 @@
 ﻿using System;
-namespace Application
+
+namespace GraphProblems
 {
     public class QuickUnion
     {

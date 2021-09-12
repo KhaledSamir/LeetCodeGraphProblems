@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D39A1B9E-CD3A-42C3-B755-9C5B2AC73749}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="QuickUnion.cs" Line="4" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="GraphProblems" expanded="True">
+            <Node name="GraphProblems" expanded="True" selected="True">
+              <Node name="GraphProblems" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GraphProblems PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

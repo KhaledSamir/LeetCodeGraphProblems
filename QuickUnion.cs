@@ -33,9 +33,9 @@ namespace GraphProblems
             }
         }
 
-        public boolean Connected(int x, int y)
+        public bool Connected(int x, int y)
         {
-            return find(x) == find(y);
+            return Find(x) == Find(y);
         }
     }
 }

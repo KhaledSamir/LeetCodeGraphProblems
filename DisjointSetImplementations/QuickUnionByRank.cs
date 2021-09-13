@@ -36,16 +36,21 @@ namespace GraphProblems
             int rootX = Find(x);
             int rootY = Find(y);
 
-            if(rank[x] > rank[y])
+            if (rootX != rootY)
             {
-                root[rootY] = rootX;
-            } else if(rank[y] > rank[x])
-            {
-                root[rootX] = rootY;
-            } else
-            {
-                root[rootY] = rootX;
-                rank[rootX]++;
+                if (rank[x] > rank[y])
+                {
+                    root[rootY] = rootX;
+                }
+                else if (rank[y] > rank[x])
+                {
+                    root[rootX] = rootY;
+                }
+                else
+                {
+                    root[rootY] = rootX;
+                    rank[rootX]++;
+                }
             }
         }
 

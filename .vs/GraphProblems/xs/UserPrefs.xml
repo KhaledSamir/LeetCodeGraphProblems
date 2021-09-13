@@ -1,20 +1,19 @@
 ﻿<Properties StartupConfiguration="{D39A1B9E-CD3A-42C3-B755-9C5B2AC73749}|Default">
   <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="QuickUnion.cs" Line="44" Column="6" />
-      <File FileName="QuickFind.cs" />
-      <File FileName="QuickUnionByRank.cs" Line="53" Column="18" />
-      <File FileName="Program.cs" />
-      <File FileName="DisjoinSet.cs" Line="3" Column="2" />
-      <File FileName="README.md" Line="1" Column="115" />
-      <File FileName="PathCompressionByRank.cs" Line="10" Column="18" />
-      <File FileName=".gitignore" Line="3" Column="1" />
+      <File FileName="DisjointSetImplementations/PathCompressionByRank.cs" Line="4" Column="18" />
+      <File FileName="LeetcodeProblems/323-Number of Connected Components in an Undirected Graph.cs" Line="7" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GraphProblems" expanded="True">
-            <Node name="GraphProblems" expanded="True" selected="True" />
+            <Node name="GraphProblems" expanded="True">
+              <Node name="DisjointSetImplementations" expanded="True" />
+              <Node name="LeetcodeProblems" expanded="True">
+                <Node name="323-Number of Connected Components in an Undirected Graph.cs" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>

@@ -1,1 +1,1 @@
-# This repo is intended for any individual wanting to improve their problem solving skills for software engineering interviews. The repo focuses on the graph problems & implementations of graph & disjoint set.
+This repo is intended for any individual wanting to improve their problem solving skills for software engineering interviews. The repo focuses on the graph problems & implementations of graph & disjoint set.

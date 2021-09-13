@@ -7,8 +7,13 @@
 
   <ItemGroup>
     <None Remove="DisjointSetImplementations\" />
+    <None Remove="LeetcodeProblems\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DisjointSetImplementations\" />
+    <Folder Include="LeetcodeProblems\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="LeetCode\547-NumberOfProvinces.cs" />
   </ItemGroup>
 </Project>

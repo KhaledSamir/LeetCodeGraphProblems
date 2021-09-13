@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{D39A1B9E-CD3A-42C3-B755-9C5B2AC73749}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="QuickUnion.cs" Line="44" Column="6" />
       <File FileName="QuickFind.cs" />
@@ -8,30 +8,19 @@
       <File FileName="DisjoinSet.cs" Line="3" Column="2" />
       <File FileName="README.md" Line="1" Column="115" />
       <File FileName="PathCompressionByRank.cs" Line="10" Column="18" />
-      <File FileName="LeetCode/547-NumberOfProvinces.cs" Line="1" Column="1" />
       <File FileName=".gitignore" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GraphProblems" expanded="True">
-            <Node name="GraphProblems" expanded="True">
-              <Node name="DisjointSetImplementations" expanded="True" />
-              <Node name="LeetCode" expanded="True" />
-              <Node name=".gitignore" selected="True" />
-            </Node>
+            <Node name="GraphProblems" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
-          <Node name="GraphProblems" expanded="True">
-            <Node name="GraphProblems" expanded="True">
-              <Node name="GraphProblems" expanded="True">
-                <Node name="GraphProblems.PathCompression" selected="True" />
-              </Node>
-            </Node>
-          </Node>
+          <Node />
         </State>
       </Pad>
     </Pads>

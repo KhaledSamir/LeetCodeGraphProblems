@@ -6,11 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="LeetCode\" />
     <None Remove="DisjointSetImplementations\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="LeetCode\" />
     <Folder Include="DisjointSetImplementations\" />
   </ItemGroup>
 </Project>

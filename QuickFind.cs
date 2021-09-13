@@ -16,7 +16,8 @@ namespace GraphProblems
         }
 
         /// <summary>
-        /// Find roots for each vertices and change all the root value for y by x; 
+        /// Find roots for each vertices and change all the root value for y by x.
+        /// worst case is O(N).
         /// </summary>
         /// <param name="x"></param>
         /// <param name="y"></param>

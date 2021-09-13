@@ -1,14 +1,28 @@
 ﻿<Properties StartupConfiguration="{D39A1B9E-CD3A-42C3-B755-9C5B2AC73749}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PathCompression.cs">
     <Files>
-      <File FileName="QuickUnion.cs" Line="4" Column="2" />
+      <File FileName="QuickUnion.cs" Line="1" Column="1" />
+      <File FileName="QuickFind.cs" />
+      <File FileName="QuickUnionByRank.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="DisjoinSet.cs" />
+      <File FileName="PathCompression.cs" Line="7" Column="9" />
     </Files>
     <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GraphProblems" expanded="True">
+            <Node name="GraphProblems" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
       <Pad Id="ClassPad">
         <State name="__root__">
           <Node name="GraphProblems" expanded="True">
-            <Node name="GraphProblems" expanded="True" selected="True">
-              <Node name="GraphProblems" expanded="True" />
+            <Node name="GraphProblems" expanded="True">
+              <Node name="GraphProblems" expanded="True">
+                <Node name="GraphProblems.PathCompression" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
